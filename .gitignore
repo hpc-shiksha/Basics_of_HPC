@@ -6,6 +6,10 @@
 *.ko
 *.obj
 *.elf
+*.slo
+*.lo
+*.o
+*.obj
 
 # Linker output
 *.ilk
@@ -50,3 +54,22 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# ignores for CUDA
+*.i
+*.ii
+*.gpu
+*.ptx
+*.cubin
+*.fatbin
+
