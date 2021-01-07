@@ -1,0 +1,8 @@
+Assignments based on Jan 6 Lecture 
+
+1. Similar to group2d.c, write an MPI program to form row-wise sub-communicators for a 2D virtual topology, using MPI_Comm_split function.
+
+2. Use MPI_Cart_create to form 2D Cartesian communicator, followed by the two functions:
+   MPI_Cart_coords (https://www.mpich.org/static/docs/v3.1/www3/MPI_Cart_coords.html)
+   MPI_Cart_rank   (https://www.mpich.org/static/docs/v3.1/www3/MPI_Cart_rank.html)
+
