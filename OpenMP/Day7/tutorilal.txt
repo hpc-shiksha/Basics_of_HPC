@@ -1,0 +1,2 @@
+read from the lecture on time command and clock function.
+gprof tool.

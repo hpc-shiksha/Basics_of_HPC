@@ -1,0 +1,2 @@
+echo $SHELL
+export OMP_NUM_THREADS=16
