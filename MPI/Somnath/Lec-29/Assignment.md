@@ -8,4 +8,4 @@
 
    Explain your observation.
 
-2. Can you modify the existing code, so that instead of multiplying all element of row of A with guess vector x, it only does for non-zero elements?
+2. Can you modify the existing code, so that instead of multiplying all element of row of A with guess vector x, it only does so for the non-zero elements?
